@@ -1,0 +1,17 @@
+{
+  "name": "fund-arb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "request": "2.81.0",
+    "request-promise": "4.2.1",
+    "bluebird": "3.5.0"
+  }
+}
